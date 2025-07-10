@@ -1,4 +1,3 @@
-<img width="1920" height="1007" alt="PetPal Prototype - Google Chrome 11-07-2025 01_57_52" src="https://github.com/user-attachments/assets/6fb35e38-25ff-488f-b9d9-208fe0035ee9" />
 # PetPal Prototype
 
 Welcome to the **PetPal Prototype**, an innovative real-time pet health monitoring and recommendation system designed to enhance pet care through cutting-edge technology. This prototype leverages a web-based interface to display live vitals, provide AI-driven health recommendations, and issue vet alerts, offering a glimpse into the full potential of the PetPal product as outlined in the accompanying report.
@@ -70,5 +69,6 @@ PetPal-Project/
 Join us in making PetPal a leader in pet health technology!
 
 ## Sample Capture
+<img width="1920" height="1007" alt="PetPal Prototype - Google Chrome 11-07-2025 01_57_52" src="https://github.com/user-attachments/assets/da752610-7c08-400f-840a-aef5512bd4b5" />
 
 ---
