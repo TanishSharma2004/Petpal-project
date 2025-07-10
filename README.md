@@ -68,4 +68,6 @@ PetPal-Project/
 
 Join us in making PetPal a leader in pet health technology!
 
+## Sample Capture
+
 ---
