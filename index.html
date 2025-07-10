@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PetPal Prototype</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>PetPal Dashboard</h1>
+        <div id="vitals">
+            <h2>Vitals</h2>
+            <p>Heart Rate: <span id="heartRate">Loading...</span> bpm</p>
+            <p>Activity: <span id="activity">Loading...</span> steps</p>
+            <p>Sleep: <span id="sleep">Loading...</span> hours</p>
+        </div>
+        <div id="recommendations">
+            <h2>AI Recommendations</h2>
+            <p id="recommendation">Loading...</p>
+        </div>
+        <div id="alerts">
+            <h2>Vet Alerts</h2>
+            <p id="alert">No alerts</p>
+        </div>
+        <button onclick="updateData()">Refresh Data</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
